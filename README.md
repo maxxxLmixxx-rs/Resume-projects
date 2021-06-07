@@ -1,8 +1,9 @@
 # Resume-projects
 ### Books:
-[EN] SVG Animations - Sarah Dranser
-[RU] Grokking Algorithms - Aditya Bhargava
-[RU] CSS3: The Missing Manual - David McFarland
+* [EN] SVG Animations - Sarah Dranser
+* [RU] Grokking Algorithms - Aditya Bhargava
+* [RU] CSS3: The Missing Manual - David McFarland
+
 ### About:
 I am a student of 'The RSSchool' stage2 (https://rs.school/)
 The current operating system is Linux.
