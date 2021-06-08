@@ -17,3 +17,5 @@ https://www.figma.com/file/4Qe3VVn40p7Yawec4P3wHs/RESUME?node-id=0%3A1
 5. https://rolling-scopes-school.github.io/maxxxlmixxx-rs-JSFE2021Q1/photo-filter
 6. https://maxxxlmixxx.github.io/Armstream-v-1.1/
 7. https://maxxxlmixxx-rs.github.io/rsschool-cv/index.html
+### Private repo copy: 
+https://github.com/maxxxLmixxx-rs/Code-examples/tree/main
